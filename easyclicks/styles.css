@@ -1,0 +1,87 @@
+body{
+    background: rgb(63, 63, 63);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: rgb(255, 255, 255);
+    margin:10px 20px;
+
+} 
+h2 {
+    color: white;
+    margin: 10px 20px;
+}
+h3 {
+    color:rgba(255, 250, 244, 0.616);
+    font-size:100%;
+    margin:10px 20px;
+
+}
+p {
+    color:rgb(248, 246, 238);
+}
+h4 {
+    color:rgba(255, 255, 255, 0.767);
+}
+label {
+    color: white;
+}
+header {
+    background: rgb(27, 27, 27);
+    margin:10px 20px;
+    
+}
+li {
+    color: white;
+    display:inline-block;
+    margin: 1px 25px;
+}
+li:hover {
+    background-color: rgb(128, 121, 121);
+    padding: 0px;
+    border-radius: 3px;
+}
+div {
+
+}
+ul {
+    margin:10px;
+    padding: 10px;
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+section.prin {
+    margin-left:20px;
+    margin-right:20px;
+    margin-top: 10px;
+    margin-bottom: 0px;  
+    display:flex;
+}
+section.prin div:last-child {
+    margin-left:140px;
+
+}
+section.prin div {
+    margin-top:20px;
+    padding-bottom:0px;
+}
+
+div.accounte {
+    position: unset;
+}
+section {
+    margin: 10px 20px;
+}
+h4 {
+    margin: 10px 20px;
+}
+section.dprin {
+    display:flex;
+}
+section.dprin div:last-child {
+    margin-left:140px;
+}
+
